@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1648244319 source:c:\users\tetsuya\desktop\if\project\project\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"include/curl/curl.h"
+	"funcoes.h"
+
+1648243120 c:\users\tetsuya\desktop\if\project\project\funcoes.h
+
+1648243479 source:c:\users\tetsuya\desktop\if\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1637344920 c:\users\tetsuya\desktop\if\project\project\lib.h
+	"funcoes.h"
+
+1646165214 c:\users\tetsuya\desktop\if\project\project\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1646480664 c:\users\tetsuya\desktop\if\project\project\include\curl\curlver.h
+
+1646165214 c:\users\tetsuya\desktop\if\project\project\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1643198980 c:\users\tetsuya\desktop\if\project\project\include\curl\easy.h
+
+1643198980 c:\users\tetsuya\desktop\if\project\project\include\curl\multi.h
+	"curl.h"
+
+1643198980 c:\users\tetsuya\desktop\if\project\project\include\curl\urlapi.h
+	"curl.h"
+
+1643198980 c:\users\tetsuya\desktop\if\project\project\include\curl\options.h
+
+1643198980 c:\users\tetsuya\desktop\if\project\project\include\curl\typecheck-gcc.h
+
